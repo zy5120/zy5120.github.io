@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "versionCode": 34,
-  "versionName": "0.1.0-alpha.34",
-  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuWeChat-v0.1.0-alpha.34-build34.apk",
-  "sha256": "1315a7df6645957df1d1a726b118808ff06195ee3b12ff06b95ec36b07b4bf3b",
-  "notes": "微信内顶部只显示插件版本、微信适配状态和功能异常状态。"
+  "versionCode": 35,
+  "versionName": "0.1.0-alpha.35",
+  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuWeChat-v0.1.0-alpha.35-build35.apk",
+  "sha256": "d266e4e2b1de9b893e5ea95fd8d83a85ed508ddc565da8003c994b2ee0a47559",
+  "notes": "新增群聊脱敏实名，以及未加好友群成员个人页脱敏实名和微信号显示。"
 }
