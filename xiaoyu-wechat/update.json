@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "versionCode": 33,
-  "versionName": "0.1.0-alpha.33",
-  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuWeChat-v0.1.0-alpha.33-build33.apk",
-  "sha256": "a90fedfdb1b4b60b40ca0bdae422a364c75130fa0ce50c584e07a9821ba7b816",
-  "notes": "新增 GitHub 更新检查；支持下载 APK、校验 SHA-256 并打开系统安装界面。"
+  "versionCode": 34,
+  "versionName": "0.1.0-alpha.34",
+  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuWeChat-v0.1.0-alpha.34-build34.apk",
+  "sha256": "1315a7df6645957df1d1a726b118808ff06195ee3b12ff06b95ec36b07b4bf3b",
+  "notes": "微信内顶部只显示插件版本、微信适配状态和功能异常状态。"
 }
