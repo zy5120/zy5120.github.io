@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "versionCode": 35,
-  "versionName": "0.1.0-alpha.35",
-  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuWeChat-v0.1.0-alpha.35-build35.apk",
-  "sha256": "d266e4e2b1de9b893e5ea95fd8d83a85ed508ddc565da8003c994b2ee0a47559",
-  "notes": "新增群聊脱敏实名，以及未加好友群成员个人页脱敏实名和微信号显示。"
+  "versionCode": 36,
+  "versionName": "0.1.0-alpha.36",
+  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuWeChat-v0.1.0-alpha.36-build36.apk",
+  "sha256": "43358800c75f03da6f69b9c346369f5ba671a0c1024f5b4c817f029f9c581f5d",
+  "notes": "新增群成员微信号原生位置显示；实名改为打开资料页时按需获取；修复消息复读、群语音转发和语音复读失败。"
 }
