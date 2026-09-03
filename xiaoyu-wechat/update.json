@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "versionCode": 43,
-  "versionName": "0.1.0-alpha.43",
-  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuWeChat-v0.1.0-alpha.43-build43.apk",
-  "sha256": "8574a0efbd1ae2511c280afd4f67525d174d0c70c7983be63466f82c35358cc9",
-  "notes": "APP 功能主页同步为 2 个分类、10 项功能；液态玻璃底栏同步微信内按下预览、松手提交与拖动松手不重放的最新交互。"
+  "versionCode": 45,
+  "versionName": "0.1.0-alpha.45",
+  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuWeChat-v0.1.0-alpha.45-build45.apk",
+  "sha256": "e7cb5b5e1b3a1ae82eca6a49b5b47676f56bd513bf35f2fdddf24360b588634c",
+  "notes": "微信内更新改为带进度和取消操作的直接下载；APK 经 SHA-256 校验通过后，自动打开系统安装确认。"
 }
