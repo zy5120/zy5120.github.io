@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "versionCode": 71,
-  "versionName": "0.1.0-alpha.71",
-  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuAndroid-v0.1.0-alpha.71-build71.apk",
-  "sha256": "894ccced299673647b8f47ab326618ba417297c0c7da8b82d80c743efa2cdf0a",
-  "notes": "密友隐藏与重新上锁同步微信原生多设备隐藏，并增加遵守静音和勿扰的双段触感提示；优化模块主页、LSPosed 状态、微信私聊群聊进入热路径；转发与联系人选择器使用批量快照，减少长按消息进入转发列表时的延迟。"
+  "versionCode": 104,
+  "versionName": "0.1.0-alpha.104",
+  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuAndroid-v0.1.0-alpha.104-build104.apk",
+  "sha256": "affc56002ee254cff009abc3cbc73f647cedd3d7af14f9508fa0ae6c4e2a827b",
+  "notes": ""
 }
