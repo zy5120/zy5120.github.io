@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "versionCode": 70,
-  "versionName": "0.1.0-alpha.70",
-  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuAndroid-v0.1.0-alpha.70-build70.apk",
-  "sha256": "2bdf98654e8d426195949b7fbe788a8fd1c4a41272527161c18504492082da43",
-  "notes": "新增 Soul 35 项原生气泡目录及全局、随机、固定、单聊天覆盖；密友快捷操作支持自定义文字、菜单图标与标题胶囊反馈；密友收到新消息后再次调用微信原生不显示该聊天，避免会话被重新顶回列表。"
+  "versionCode": 71,
+  "versionName": "0.1.0-alpha.71",
+  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuAndroid-v0.1.0-alpha.71-build71.apk",
+  "sha256": "894ccced299673647b8f47ab326618ba417297c0c7da8b82d80c743efa2cdf0a",
+  "notes": "密友隐藏与重新上锁同步微信原生多设备隐藏，并增加遵守静音和勿扰的双段触感提示；优化模块主页、LSPosed 状态、微信私聊群聊进入热路径；转发与联系人选择器使用批量快照，减少长按消息进入转发列表时的延迟。"
 }
