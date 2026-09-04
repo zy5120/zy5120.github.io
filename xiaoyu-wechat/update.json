@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "versionCode": 67,
-  "versionName": "0.1.0-alpha.67",
-  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuAndroid-v0.1.0-alpha.67-build67.apk",
-  "sha256": "77a705e834222430fb8c02f440383c9d808b6514991e04cc58bcb0095c7d345a",
-  "notes": "新增完整密友隐私保护、自动隐藏、首页快捷管理与未读标题提示；群聊新增群主/管理员前缀标签及自定义颜色；增加防误触拍一拍、原图与图片信息、8 项微信原生灰度功能，并扩展 Soul 6.34.0 的隐私、媒体与生日查询能力。"
+  "versionCode": 70,
+  "versionName": "0.1.0-alpha.70",
+  "apkUrl": "https://zy5120.github.io/xiaoyu-wechat/XiaoyuAndroid-v0.1.0-alpha.70-build70.apk",
+  "sha256": "2bdf98654e8d426195949b7fbe788a8fd1c4a41272527161c18504492082da43",
+  "notes": "新增 Soul 35 项原生气泡目录及全局、随机、固定、单聊天覆盖；密友快捷操作支持自定义文字、菜单图标与标题胶囊反馈；密友收到新消息后再次调用微信原生不显示该聊天，避免会话被重新顶回列表。"
 }
