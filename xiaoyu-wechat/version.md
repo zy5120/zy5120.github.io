@@ -1,2 +1,2 @@
-version: 0.1.0-alpha.105
-build: 105
+version: 0.1.0-alpha.106
+build: 106
