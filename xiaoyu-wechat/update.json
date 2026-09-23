@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 343,
-  "versionName": "0.1.0-alpha.343",
-  "apkUrl": "https://github.com/zy5120/XiaoyuAndroid-Releases/releases/download/v0.1.0-alpha.343/XiaoyuAndroid-v0.1.0-alpha.343-build343.apk",
-  "sha256": "0057825a30e84a3993e23bc7b2c763104e09d61de9eacccb110ed18b77ed0db9",
+  "versionCode": 344,
+  "versionName": "0.1.0-alpha.344",
+  "apkUrl": "https://github.com/zy5120/XiaoyuAndroid-Releases/releases/download/v0.1.0-alpha.344/XiaoyuAndroid-v0.1.0-alpha.344-build344.apk",
+  "sha256": "6ce856ca014b3809e7147ba8dc5af949464c83e43f8f2fa4936f22ab716d907a",
   "notes": "",
-  "forceUpdate": 1
+  "forceUpdate": 0
 }
