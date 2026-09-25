@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="referrer" content="no-referrer">
+  <meta
+    http-equiv="Content-Security-Policy"
+    content="default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"
+  >
+  <title>演示红包｜无资金</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --background: #f5f5f7;
+      --surface: #ffffff;
+      --primary: #1d1d1f;
+      --secondary: #6e6e73;
+      --accent: #d24848;
+      --accent-soft: #fff0f0;
+      --accent-border: rgba(210, 72, 72, 0.22);
+      --border: rgba(29, 29, 31, 0.1);
+      --shadow: 0 18px 50px rgba(80, 32, 32, 0.11);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --background: #111113;
+        --surface: #1c1c1e;
+        --primary: #f5f5f7;
+        --secondary: #a1a1a6;
+        --accent: #ff7373;
+        --accent-soft: #341f20;
+        --accent-border: rgba(255, 115, 115, 0.28);
+        --border: rgba(255, 255, 255, 0.1);
+        --shadow: 0 18px 50px rgba(0, 0, 0, 0.28);
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      min-height: 100svh;
+      padding: max(28px, env(safe-area-inset-top)) 20px
+        max(28px, env(safe-area-inset-bottom));
+      display: grid;
+      place-items: center;
+      background:
+        radial-gradient(circle at 50% 0%, var(--accent-soft), transparent 48%),
+        var(--background);
+      color: var(--primary);
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "PingFang SC",
+        "Microsoft YaHei", sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    main {
+      width: min(100%, 440px);
+    }
+
+    .card {
+      overflow: hidden;
+      border: 1px solid var(--border);
+      border-radius: 28px;
+      background: var(--surface);
+      box-shadow: var(--shadow);
+    }
+
+    .hero {
+      padding: 34px 28px 30px;
+      background: linear-gradient(145deg, #d24848, #b53b3b);
+      color: #ffffff;
+      text-align: center;
+    }
+
+    .mark {
+      width: 76px;
+      height: 76px;
+      margin: 0 auto 22px;
+      display: grid;
+      place-items: center;
+      border: 1px solid rgba(255, 255, 255, 0.42);
+      border-radius: 24px;
+      background: rgba(255, 255, 255, 0.15);
+      font-size: 22px;
+      font-weight: 750;
+      letter-spacing: 0.08em;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(27px, 8vw, 34px);
+      line-height: 1.2;
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 12px 0 0;
+      color: rgba(255, 255, 255, 0.86);
+      font-size: 15px;
+      line-height: 1.65;
+    }
+
+    .content {
+      padding: 26px 24px 24px;
+    }
+
+    .status {
+      margin: 0 0 22px;
+      padding: 18px;
+      border: 1px solid var(--accent-border);
+      border-radius: 18px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: 18px;
+      font-weight: 750;
+      line-height: 1.55;
+      text-align: center;
+    }
+
+    dl {
+      margin: 0;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: 78px 1fr;
+      gap: 14px;
+      padding: 15px 0;
+      border-top: 1px solid var(--border);
+      font-size: 15px;
+      line-height: 1.55;
+    }
+
+    .row:first-child {
+      border-top: 0;
+      padding-top: 0;
+    }
+
+    dt {
+      color: var(--secondary);
+    }
+
+    dd {
+      margin: 0;
+      font-weight: 650;
+    }
+
+    footer {
+      margin-top: 18px;
+      color: var(--secondary);
+      font-size: 12px;
+      line-height: 1.6;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <article class="card" aria-labelledby="page-title">
+      <header class="hero">
+        <div class="mark" aria-hidden="true">演示</div>
+        <h1 id="page-title">演示红包</h1>
+        <p>这是一张互动演示卡片，不是微信红包。</p>
+      </header>
+      <section class="content" aria-label="演示说明">
+        <p class="status">不可领取 · 无资金 · 不涉及支付</p>
+        <dl>
+          <div class="row">
+            <dt>卡片性质</dt>
+            <dd>功能交互演示</dd>
+          </div>
+          <div class="row">
+            <dt>资金状态</dt>
+            <dd>没有资金，不会产生扣款</dd>
+          </div>
+          <div class="row">
+            <dt>领取状态</dt>
+            <dd>不可领取，没有领取结果</dd>
+          </div>
+        </dl>
+      </section>
+    </article>
+    <footer>
+      页面不要求登录，不收集账号、群聊或设备信息，也不使用统计脚本与 Cookie。
+    </footer>
+  </main>
+</body>
+</html>
