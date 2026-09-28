@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 405,
-  "versionName": "0.1.0-alpha.405",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.405/XiaoyuAndroid-v0.1.0-alpha.405-build405.apk",
-  "sha256": "2de8be2d8ff080bc72bbe2c6fac776de800b2873117f76668ff478f339a6f0df",
-  "notes": "正式版暂不在 Soul 中启动插件 Hook；保留 Soul 设置与数据。微信入口保留，8.0.78 功能仍待验证。",
+  "versionCode": 406,
+  "versionName": "0.1.0-alpha.406",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.406/XiaoyuAndroid-v0.1.0-alpha.406-build406.apk",
+  "sha256": "fd8dce3e4fa9b325963812c5ddce43e1d12790731c11bebce6ebed5d47ee7e18",
+  "notes": "“点我进群”现从公开配置读取当前密码；断网时使用上次成功值，首次离线回退 34685。Soul 正式包入口仍暂停。",
   "forceUpdate": 1
 }
