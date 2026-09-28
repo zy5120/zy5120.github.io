@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 404,
-  "versionName": "0.1.0-alpha.404",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.404/XiaoyuAndroid-v0.1.0-alpha.404-build404.apk",
-  "sha256": "499120b24d787c1da188d000441f68bc89b85e897e3b4aba9d8e36fedd1ff5ee",
-  "notes": "",
+  "versionCode": 405,
+  "versionName": "0.1.0-alpha.405",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.405/XiaoyuAndroid-v0.1.0-alpha.405-build405.apk",
+  "sha256": "2de8be2d8ff080bc72bbe2c6fac776de800b2873117f76668ff478f339a6f0df",
+  "notes": "正式版暂不在 Soul 中启动插件 Hook；保留 Soul 设置与数据。微信入口保留，8.0.78 功能仍待验证。",
   "forceUpdate": 1
 }
