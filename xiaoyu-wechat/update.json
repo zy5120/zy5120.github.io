@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 406,
-  "versionName": "0.1.0-alpha.406",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.406/XiaoyuAndroid-v0.1.0-alpha.406-build406.apk",
-  "sha256": "fd8dce3e4fa9b325963812c5ddce43e1d12790731c11bebce6ebed5d47ee7e18",
-  "notes": "“点我进群”现从公开配置读取当前密码；断网时使用上次成功值，首次离线回退 34685。Soul 正式包入口仍暂停。",
+  "versionCode": 407,
+  "versionName": "0.1.0-alpha.407",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.407/XiaoyuAndroid-v0.1.0-alpha.407-build407.apk",
+  "sha256": "3c5ab0b06a74aa7bc57a2f475ff2e464c1d2ad27dd63de0712f526fe51a24121",
+  "notes": "旧密友数据迁移失败时限次重试；四次均无法读取时清理对应旧记录并提示重新配置。已有新版数据保留，无法读取的旧名单不能恢复。",
   "forceUpdate": 1
 }
