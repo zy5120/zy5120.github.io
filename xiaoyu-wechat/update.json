@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 431,
-  "versionName": "0.1.0-alpha.431",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.431/XiaoyuAndroid-v0.1.0-alpha.431-build431.apk",
-  "sha256": "4670e34ad8204dab695ac673b37051f36510411e68fb0596df40c733da0d8af4",
-  "notes": "完善微信 8.0.78 可选通话入口的兼容性判断，减少启动时的重复异常记录；保留未适配项目的检查提示和原有操作方式。",
+  "versionCode": 433,
+  "versionName": "0.1.0-alpha.433",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.433/XiaoyuAndroid-v0.1.0-alpha.433-build433.apk",
+  "sha256": "59ea686c9b74808c1df51287df0f64686aa1d5187de36c58d110739f52d6ac8a",
+  "notes": "完善微信 8.0.78 四个首页的底部内容布局，减少遮罩与空白；仅保留原生底栏实际高度，保持自定义底栏位置和原有切换操作。",
   "forceUpdate": 1
 }
