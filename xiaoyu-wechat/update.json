@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 440,
-  "versionName": "0.1.0-alpha.440",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.440/XiaoyuAndroid-v0.1.0-alpha.440-build440.apk",
-  "sha256": "414656aa056729733dce811d88a210e25e6f4847e847a34a049c36607a1dc2dc",
-  "notes": "修复头像下方消息时间开关无法保存的问题，重新打开设置后保留所选状态。",
+  "versionCode": 441,
+  "versionName": "0.1.0-alpha.441",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.441/XiaoyuAndroid-v0.1.0-alpha.441-build441.apk",
+  "sha256": "23f08756e1fa7cde171cba9ddcc01c023a9aea1ca70355507f6918c7092152c5",
+  "notes": "适配反馈增加本地待测试与通过分栏，支持长按标记或改回，保存时保留最新状态和备注。",
   "forceUpdate": 1
 }
