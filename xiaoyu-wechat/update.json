@@ -4,6 +4,6 @@
   "versionName": "0.1.0-alpha.433",
   "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.433/XiaoyuAndroid-v0.1.0-alpha.433-build433.apk",
   "sha256": "59ea686c9b74808c1df51287df0f64686aa1d5187de36c58d110739f52d6ac8a",
-  "notes": "完善微信 8.0.78 四个首页的底部内容布局，减少遮罩与空白；仅保留原生底栏实际高度，保持自定义底栏位置和原有切换操作。",
+  "notes": "完善微信 8.0.78 四个首页的底部内容布局，保持底栏位置和原有操作。部分首页底部遮罩和聊天列表末尾留白仍在进一步完善。",
   "forceUpdate": 1
 }
