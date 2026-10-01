@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 424,
-  "versionName": "0.1.0-alpha.424",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.424/XiaoyuAndroid-v0.1.0-alpha.424-build424.apk",
-  "sha256": "0a5bbb9603476eba6ae94d8e979787a51a1944d8796582e8bdfb3b5ca63a69e1",
-  "notes": "整合正式功能更新，完善微信自动适配、消息转发、搜索、密友和聊天分组的兼容体验。",
+  "versionCode": 425,
+  "versionName": "0.1.0-alpha.425",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.425/XiaoyuAndroid-v0.1.0-alpha.425-build425.apk",
+  "sha256": "1ea7fd874d4464d5468f91a323dd1c72cd1b0bfa8ed60d2031834f6c091fed53",
+  "notes": "完善插件中心首页和功能检查的状态刷新，减少旧统计残留与重复刷新。",
   "forceUpdate": 1
 }
