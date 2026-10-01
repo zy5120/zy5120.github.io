@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 426,
-  "versionName": "0.1.0-alpha.426",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.426/XiaoyuAndroid-v0.1.0-alpha.426-build426.apk",
-  "sha256": "2863e4e34707e23cb3a066906287aae255415c1efffc84ad416755f288ed45c8",
-  "notes": "减少重复处理已完成的适配结果，完善加载状态提示与异常缓存恢复。",
+  "versionCode": 428,
+  "versionName": "0.1.0-alpha.428",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.428/XiaoyuAndroid-v0.1.0-alpha.428-build428.apk",
+  "sha256": "944d5d95ad34ad7c9e254d537f79df42563a86814b88d3b15eb2290fad6df934",
+  "notes": "微信 8.0.78 复用随包适配结果，保留已有设置并减少重复加载。",
   "forceUpdate": 1
 }
