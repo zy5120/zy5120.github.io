@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 436,
-  "versionName": "0.1.0-alpha.436",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.436/XiaoyuAndroid-v0.1.0-alpha.436-build436.apk",
-  "sha256": "82b2d105c2fb797afb814dd9ffede2bb90bd334920bb43b9ed74933fe488abb0",
-  "notes": "微信 8.0.78 新增适配验收、中文备注与历史同步；修复自建聊天分组长按菜单。",
+  "versionCode": 437,
+  "versionName": "0.1.0-alpha.437",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.437/XiaoyuAndroid-v0.1.0-alpha.437-build437.apk",
+  "sha256": "f983cdee35dfc3b99166817bab779b394defd4d01134c9818f4c36e9d4cdbfda",
+  "notes": "密友隐藏时屏蔽微信内该会话的新消息声音与震动，临时显示后恢复原设置，普通会话保持不变。",
   "forceUpdate": 1
 }
