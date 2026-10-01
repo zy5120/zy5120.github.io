@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 407,
-  "versionName": "0.1.0-alpha.407",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.407/XiaoyuAndroid-v0.1.0-alpha.407-build407.apk",
-  "sha256": "3c5ab0b06a74aa7bc57a2f475ff2e464c1d2ad27dd63de0712f526fe51a24121",
-  "notes": "旧密友数据迁移失败时限次重试；四次均无法读取时清理对应旧记录并提示重新配置。已有新版数据保留，无法读取的旧名单不能恢复。",
+  "versionCode": 424,
+  "versionName": "0.1.0-alpha.424",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.424/XiaoyuAndroid-v0.1.0-alpha.424-build424.apk",
+  "sha256": "0a5bbb9603476eba6ae94d8e979787a51a1944d8796582e8bdfb3b5ca63a69e1",
+  "notes": "整合正式功能更新，完善微信自动适配、消息转发、搜索、密友和聊天分组的兼容体验。",
   "forceUpdate": 1
 }
