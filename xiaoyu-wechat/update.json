@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 435,
-  "versionName": "0.1.0-alpha.435",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.435/XiaoyuAndroid-v0.1.0-alpha.435-build435.apk",
-  "sha256": "645235b6a07b1cd9f2a94fe79fe4f8572cd2aad703e1731f5b04cd345555b548",
-  "notes": "调整微信 8.0.78 四个首页的末尾留白，使用页面已有控件，减少固定底部遮挡；保持自定义底栏位置与切换操作。",
+  "versionCode": 436,
+  "versionName": "0.1.0-alpha.436",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.436/XiaoyuAndroid-v0.1.0-alpha.436-build436.apk",
+  "sha256": "82b2d105c2fb797afb814dd9ffede2bb90bd334920bb43b9ed74933fe488abb0",
+  "notes": "微信 8.0.78 新增适配验收、中文备注与历史同步；修复自建聊天分组长按菜单。",
   "forceUpdate": 1
 }
