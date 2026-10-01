@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 441,
-  "versionName": "0.1.0-alpha.441",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.441/XiaoyuAndroid-v0.1.0-alpha.441-build441.apk",
-  "sha256": "23f08756e1fa7cde171cba9ddcc01c023a9aea1ca70355507f6918c7092152c5",
-  "notes": "适配反馈增加本地待测试与通过分栏，支持长按标记或改回，保存时保留最新状态和备注。",
+  "versionCode": 442,
+  "versionName": "0.1.0-alpha.442",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.442/XiaoyuAndroid-v0.1.0-alpha.442-build442.apk",
+  "sha256": "3964ced64d9b594f629c1db8fcf26476bc8eab146dca3468841fe3124830473f",
+  "notes": "新增音色配置和状态管理，统一头像下消息时间的主题颜色，改善连续消息与聊天分组的时间显示。",
   "forceUpdate": 1
 }
