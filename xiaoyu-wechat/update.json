@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 429,
-  "versionName": "0.1.0-alpha.429",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.429/XiaoyuAndroid-v0.1.0-alpha.429-build429.apk",
-  "sha256": "95c52ad191df12e1faa9e92a436c30e9b844f238e469a2a2cb20aa85bcf4837e",
-  "notes": "完善微信 8.0.78 的插件唤醒入口，修复面板关闭后重开及重复音量组合响应。",
+  "versionCode": 430,
+  "versionName": "0.1.0-alpha.430",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.430/XiaoyuAndroid-v0.1.0-alpha.430-build430.apk",
+  "sha256": "4d188a442cf50d050c70cd25fcd2ef9c4e204418207811a933e16408066e36a6",
+  "notes": "修复微信 8.0.78 聊天页长按菜单打开会话自定义设置的入口，保留现有操作方式。",
   "forceUpdate": 1
 }
