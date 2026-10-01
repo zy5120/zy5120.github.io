@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 433,
-  "versionName": "0.1.0-alpha.433",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.433/XiaoyuAndroid-v0.1.0-alpha.433-build433.apk",
-  "sha256": "59ea686c9b74808c1df51287df0f64686aa1d5187de36c58d110739f52d6ac8a",
-  "notes": "完善微信 8.0.78 四个首页的底部内容布局，保持底栏位置和原有操作。部分首页底部遮罩和聊天列表末尾留白仍在进一步完善。",
+  "versionCode": 434,
+  "versionName": "0.1.0-alpha.434",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.434/XiaoyuAndroid-v0.1.0-alpha.434-build434.apk",
+  "sha256": "2d2259fe1fd48941a6a9efd666360bccc7dd9feb3fd1185a18deec4ec3717efe",
+  "notes": "改善长群名片的身份标识显示，昵称末尾省略；管理员显示“管理”。部分首页底部遮罩和聊天列表末尾留白仍在进一步完善。",
   "forceUpdate": 1
 }
