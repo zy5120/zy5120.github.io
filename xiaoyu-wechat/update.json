@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 443,
-  "versionName": "0.1.0-alpha.443",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.443/XiaoyuAndroid-v0.1.0-alpha.443-build443.apk",
-  "sha256": "dad80d60723db78c4a5c281b7ef08414ace459f8cfa2d978c357fa39c4a06a6a",
-  "notes": "改善聊天分组中尚未出现在首页的会话时间显示，与微信原生样式保持一致。",
-  "forceUpdate": 1
+  "versionCode": 444,
+  "versionName": "0.1.0-alpha.444",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.444/XiaoyuAndroid-v0.1.0-alpha.444-build444.apk",
+  "sha256": "15c1f709b2908de58cdcae587babd13d64c0f7dc5de7bf9edf2ea702dd98c239",
+  "notes": "精简插件中心布局与备注，个人资料和搜索固定显示，保留必要提示与异常检查。",
+  "forceUpdate": 0
 }
