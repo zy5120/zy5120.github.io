@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 444,
-  "versionName": "0.1.0-alpha.444",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.444/XiaoyuAndroid-v0.1.0-alpha.444-build444.apk",
-  "sha256": "15c1f709b2908de58cdcae587babd13d64c0f7dc5de7bf9edf2ea702dd98c239",
-  "notes": "精简插件中心布局与备注，个人资料和搜索固定显示，保留必要提示与异常检查。",
+  "versionCode": 445,
+  "versionName": "0.1.0-alpha.445",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.445/XiaoyuAndroid-v0.1.0-alpha.445-build445.apk",
+  "sha256": "e94c975a1d05acfb18b3bb0e87ebe74f02af03e24fb7d897432cf22a54552235",
+  "notes": "更新检查与下载优先使用 Gitee，连接失败时尝试 GitHub 的同版本备用源；下载后检查安装包完整性，取消后停止备用尝试。",
   "forceUpdate": 0
 }
