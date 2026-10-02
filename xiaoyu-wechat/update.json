@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 445,
-  "versionName": "0.1.0-alpha.445",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.445/XiaoyuAndroid-v0.1.0-alpha.445-build445.apk",
-  "sha256": "e94c975a1d05acfb18b3bb0e87ebe74f02af03e24fb7d897432cf22a54552235",
-  "notes": "更新检查与下载优先使用 Gitee，连接失败时尝试 GitHub 的同版本备用源；下载后检查安装包完整性，取消后停止备用尝试。",
+  "versionCode": 446,
+  "versionName": "0.1.0-alpha.446",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.446/XiaoyuAndroid-v0.1.0-alpha.446-build446.apk",
+  "sha256": "f66c4bf30a28b5d29ff1396d269927b2049334c6764e89b3f79760b84987809f",
+  "notes": "本地替换头像增加详细设置与会话总开关，说明改为紧凑弹窗并隐藏空卡片；调整退群默认模板及聊天窗口分类。",
   "forceUpdate": 0
 }
