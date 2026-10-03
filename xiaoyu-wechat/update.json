@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 455,
-  "versionName": "0.1.0-alpha.455",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.455/XiaoyuAndroid-v0.1.0-alpha.455-build455.apk",
-  "sha256": "056bff0041dc461165b055f597551a976841394d72cd3a8e6f28379ca873cafd",
-  "notes": "优化 密友未读提示：全部已读后恢复原有标题样式，仍有未读时保留提示。\n优化 零钱通本地显示：余额与累计收益保持一致，昨日收益文字适配当前页面颜色。",
+  "versionCode": 456,
+  "versionName": "0.1.0-alpha.456",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.456/XiaoyuAndroid-v0.1.0-alpha.456-build456.apk",
+  "sha256": "7d3f453e27647cbf90dae296e798cf4e8c77c44a3a9dd7ef9aae4ba56666adad",
+  "notes": "新增 朋友圈本地点赞与评论预览，支持按人数选择好友，仅在自己的手机上显示，保留真实互动。\n优化 点赞与评论分别编辑、保存和恢复；改善没有真实互动时的预览显示与列表刷新。\n优化 详细设置与已配置动态分开管理，改善编辑页的长列表、大字号与取消操作。",
   "forceUpdate": 0
 }
