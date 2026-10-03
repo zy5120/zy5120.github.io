@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 451,
-  "versionName": "0.1.0-alpha.451",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.451/XiaoyuAndroid-v0.1.0-alpha.451-build451.apk",
-  "sha256": "a1706386795dc19ebcebd7ac24c2d936278a1c845122aabe511b228cb34cb61e",
-  "notes": "修正插件中心关闭后的异常刷新，改善快速重新打开的稳定性。",
+  "versionCode": 452,
+  "versionName": "0.1.0-alpha.452",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.452/XiaoyuAndroid-v0.1.0-alpha.452-build452.apk",
+  "sha256": "7ac83530d95876568179f7a3dd5b479d6062ae84f2942c66805ac557165834dc",
+  "notes": "修复聊天自定义设置中自定义语音入口未显示的问题，改善已打开页面的更新响应。",
   "forceUpdate": 0
 }
