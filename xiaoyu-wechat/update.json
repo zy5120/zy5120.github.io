@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 450,
-  "versionName": "0.1.0-alpha.450",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.450/XiaoyuAndroid-v0.1.0-alpha.450-build450.apk",
-  "sha256": "35102d54483436991eedaf14c5c64968c05355dae0b4c40e83a3ef1aff4b7127",
-  "notes": "完善账号封禁原因显示，保留登录状态失效后的原有保护和重新登录入口。\n优化通话期间扫码、拍照与录像的占用检查，关闭开关后恢复微信原检查。\n取消功能列表中的独立说明入口。\n本地修改设置移除外层重复开关，详细设置保留原选项。\n优化消息中的“小鱼”菜单，语音克隆与修改、恢复本地时间使用同一入口。\n克隆音色页改为左右分栏，删除成功后同步清理本地音色和聊天引用。\n发言人优先显示最近 5 个已保存音色，支持搜索全部已保存音色，并避免旧草稿恢复已删除音色。\n完善“禁用热更新”的启动保护，保持默认开启，并保留用户手动关闭的选择。\n修正内部更新状态显示，避免将未加载成功的更新显示为已加载。",
+  "versionCode": 451,
+  "versionName": "0.1.0-alpha.451",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.451/XiaoyuAndroid-v0.1.0-alpha.451-build451.apk",
+  "sha256": "a1706386795dc19ebcebd7ac24c2d936278a1c845122aabe511b228cb34cb61e",
+  "notes": "修正插件中心关闭后的异常刷新，改善快速重新打开的稳定性。",
   "forceUpdate": 0
 }
