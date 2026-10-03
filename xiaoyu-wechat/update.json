@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 453,
-  "versionName": "0.1.0-alpha.453",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.453/XiaoyuAndroid-v0.1.0-alpha.453-build453.apk",
-  "sha256": "70584d623307242bf56ec60a812ade9657f29c693b16d81765382d4eb6a1fbbf",
-  "notes": "优化 恢复钱包金额的两种显示模式，优化零钱通的本地金额与收益显示。\n优化 修复部分新版朋友圈图文转发后的图片与文字显示问题。",
+  "versionCode": 455,
+  "versionName": "0.1.0-alpha.455",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.455/XiaoyuAndroid-v0.1.0-alpha.455-build455.apk",
+  "sha256": "056bff0041dc461165b055f597551a976841394d72cd3a8e6f28379ca873cafd",
+  "notes": "优化 密友未读提示：全部已读后恢复原有标题样式，仍有未读时保留提示。\n优化 零钱通本地显示：余额与累计收益保持一致，昨日收益文字适配当前页面颜色。",
   "forceUpdate": 0
 }
