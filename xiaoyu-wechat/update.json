@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 469,
-  "versionName": "0.1.0-alpha.469",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.469/XiaoyuAndroid-v0.1.0-alpha.469-build469.apk",
-  "sha256": "8a6393cbc5e9b5c48558c5d626ecc9090d5cd2f1c0b33aefbcc441bde65faad1",
-  "notes": "统一插件中心显示，保留微信底栏实时预览；改进分组转发、朋友圈赞评、置顶同步及密友通知。语音转文字修改入口暂未启用。",
+  "versionCode": 472,
+  "versionName": "0.1.0-alpha.472",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.472/XiaoyuAndroid-v0.1.0-alpha.472-build472.apk",
+  "sha256": "c0438a2f83c45d24a6aab06695707f76227cd77e1585acee129b09cd126fbf79",
+  "notes": "补丁保护与故障隔离默认开启，本地头像替换默认关闭，已保存选择保持不变。改善分组列表显示稳定性。拍一拍按微信原有双击流程判断后，再依据确认开关询问。\n",
   "forceUpdate": 0
 }
