@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 473,
-  "versionName": "0.1.0-alpha.473",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.473/XiaoyuAndroid-v0.1.0-alpha.473-build473.apk",
-  "sha256": "26c0a5e6214365db898b1e749d726238f8a404e76c338d66ec671b1da1272b20",
-  "notes": "改善账号状态同步，避免较早的结果覆盖已确认的权限和有效期。\n",
+  "versionCode": 474,
+  "versionName": "0.1.0-alpha.474",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.474/XiaoyuAndroid-v0.1.0-alpha.474-build474.apk",
+  "sha256": "db5b02780094cc159fa5eda556dff5fbec83faf4239570fc3cf5c230bfa6b3a1",
+  "notes": "改善提醒震动，结束后避免误停其他震动。\n",
   "forceUpdate": 0
 }
