@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 456,
-  "versionName": "0.1.0-alpha.456",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.456/XiaoyuAndroid-v0.1.0-alpha.456-build456.apk",
-  "sha256": "7d3f453e27647cbf90dae296e798cf4e8c77c44a3a9dd7ef9aae4ba56666adad",
-  "notes": "新增 朋友圈本地点赞与评论预览，支持按人数选择好友，仅在自己的手机上显示，保留真实互动。\n优化 点赞与评论分别编辑、保存和恢复；改善没有真实互动时的预览显示与列表刷新。\n优化 详细设置与已配置动态分开管理，改善编辑页的长列表、大字号与取消操作。",
+  "versionCode": 469,
+  "versionName": "0.1.0-alpha.469",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.469/XiaoyuAndroid-v0.1.0-alpha.469-build469.apk",
+  "sha256": "8a6393cbc5e9b5c48558c5d626ecc9090d5cd2f1c0b33aefbcc441bde65faad1",
+  "notes": "统一插件中心显示，保留微信底栏实时预览；改进分组转发、朋友圈赞评、置顶同步及密友通知。语音转文字修改入口暂未启用。",
   "forceUpdate": 0
 }
