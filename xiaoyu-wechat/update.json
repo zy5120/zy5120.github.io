@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 483,
-  "versionName": "0.1.0-alpha.483",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.483/XiaoyuAndroid-v0.1.0-alpha.483-build483.apk",
-  "sha256": "39cf6d40c19eb3b0caefd53e875ee91fd48bbb92362e2c4a05b16c46eb3196bb",
-  "notes": "",
+  "versionCode": 484,
+  "versionName": "0.1.0-alpha.484",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.484/XiaoyuAndroid-v0.1.0-alpha.484-build484.apk",
+  "sha256": "9441368723accb0bf8582ad226d55e58014a0be42bbd4dcf680a512d6817e8b6",
+  "notes": "减少已失效凭据的重复登录检查请求。",
   "forceUpdate": 0
 }
