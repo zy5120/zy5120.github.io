@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 490,
-  "versionName": "0.1.0-alpha.490",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.490/XiaoyuAndroid-v0.1.0-alpha.490-build490.apk",
-  "sha256": "82d8590a40dee4598ec7e0196350365baf3208ecb5c280b1ab6c993868a4a1cd",
-  "notes": "[新增] 微信运动支持固定步数和倍数设置。\n",
+  "versionCode": 491,
+  "versionName": "0.1.0-alpha.491",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.491/XiaoyuAndroid-v0.1.0-alpha.491-build491.apk",
+  "sha256": "0b96f8f42af89c203c743124b514ab90d0690f743bc01b372d566f3df9f09044",
+  "notes": "[新增] 新增清除微信性别和地区的设置。\n[优化] 精简微信运动倍数模式的说明。\n",
   "forceUpdate": 0
 }
