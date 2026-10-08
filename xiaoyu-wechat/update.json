@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 494,
-  "versionName": "0.1.0-alpha.494",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.494/XiaoyuAndroid-v0.1.0-alpha.494-build494.apk",
-  "sha256": "816d50d89349df3ec1a518759c9cc6e3e2ca596e9e9ab043f5c2491bd9cc3b8b",
-  "notes": "[优化] 自定义设置分栏名称更统一。",
+  "versionCode": 495,
+  "versionName": "0.1.0-alpha.495",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.495/XiaoyuAndroid-v0.1.0-alpha.495-build495.apk",
+  "sha256": "16c98369d656c0b9af3bfd2cfec642121111b99467f58ba64aac7e38a7302a57",
+  "notes": "",
   "forceUpdate": 0
 }
