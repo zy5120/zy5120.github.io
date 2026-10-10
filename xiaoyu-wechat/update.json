@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 501,
-  "versionName": "0.1.0-alpha.501",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.501/XiaoyuAndroid-v0.1.0-alpha.501-build501.apk",
-  "sha256": "7841bfbeb3260c9b6fbd5976c23a3a52d9036234a831f26acba4bf744bbd9b5e",
+  "versionCode": 502,
+  "versionName": "0.1.0-alpha.502",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.502/XiaoyuAndroid-v0.1.0-alpha.502-build502.apk",
+  "sha256": "7a4d3444ae987b8fcec1b36f7893551b334c43ef96651f21d07e415992e31dd8",
   "notes": "",
   "forceUpdate": 0
 }
