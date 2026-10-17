@@ -1,2 +1,2 @@
-version: 0.1.0-alpha.583
-build: 583
+version: 0.1.0-alpha.594
+build: 594
