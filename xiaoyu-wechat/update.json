@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 640,
-  "versionName": "0.1.0-alpha.640",
-  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.640/XiaoyuAndroid-v0.1.0-alpha.640-build640.apk",
-  "sha256": "14257f27cf379564065d45c696cab0d66390e49950734ba9d4036acbc2fced28",
+  "versionCode": 643,
+  "versionName": "0.1.0-alpha.643",
+  "apkUrl": "https://gitee.com/zy5120/gitee-xiaoyu-release/releases/download/v0.1.0-alpha.643/XiaoyuAndroid-v0.1.0-alpha.643-build643.apk",
+  "sha256": "b67ed9110f6af3014a37fe13039465c8dfdd650f8d1796c943dc05b284a37300",
   "notes": "",
   "forceUpdate": 0
 }
