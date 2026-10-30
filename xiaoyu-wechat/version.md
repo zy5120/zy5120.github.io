@@ -1,2 +1,2 @@
-version: 0.1.0-alpha.678
-build: 678
+version: 0.1.0-alpha.679
+build: 679
