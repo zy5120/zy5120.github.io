@@ -3,5 +3,6 @@
   "versionName": "0.1.0-alpha.742",
   "apkUrl": "https://github.com/zy5120/XiaoyuAndroid-Releases/releases/download/v0.1.0-alpha.742/XiaoyuAndroid-v0.1.0-alpha.742-build742.apk",
   "forceUpdate": 0,
-  "sha256": "d4a2645050916128d2e7cdec55f630a236fcd3ac2a76e733e0eecd6f80434f16"
+  "sha256": "d4a2645050916128d2e7cdec55f630a236fcd3ac2a76e733e0eecd6f80434f16",
+  "minimumSupportedVersionCode": 737
 }
